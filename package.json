@@ -1,0 +1,33 @@
+{
+  "name": "dXYZ",
+  "version": "1.0.0",
+  "description": "David Chung's Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "My Website"
+  ],
+  "author": "David Chung",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "css-loader": "^0.28.4",
+    "html-webpack-plugin": "^2.26.0",
+    "style-loader": "^0.18.2",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "postcss": "^6.0.3",
+    "postcss-cssnext": "^2.11.0",
+    "postcss-loader": "^2.0.6",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "react-router-dom": "^4.1.1",
+    "webpack-dev-server": "^1.16.2"
+  }
+}

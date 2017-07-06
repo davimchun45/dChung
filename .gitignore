@@ -46,3 +46,5 @@ jspm_packages
 # Yarn Integrity file
 .yarn-integrity
 
+package-lock.json
+client/Minnesota_Golden_Gophers_logo.svg.png
